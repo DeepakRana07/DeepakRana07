@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepakRamola07
+- 👋 Hi, I’m @DeepakRana07
 - 👀 I’m interested in Coding ...
 - 🌱 I’m currently learning Front end
 - 💞️ I’m looking to collaborating with all of you 
