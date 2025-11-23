@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakrana07" alt="deepakrana07" /></a> </p>
 
-- 🔭 I’m currently working on **placement prep**
+- 🔭 I’m currently  working as **Software Engineer**
 
 - 🌱 I’m currently learning **Competitive Programming and Cloud Computing**
 
